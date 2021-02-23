@@ -33,6 +33,11 @@ inquirer.prompt([
         message: "License - Let other developers know what they can and cannot do with your project.",
         name: 'license',
     },
+    {
+        type: 'input',
+        message: "Features - If your project has a lot of features, consider listing them here.",
+        name: 'features',
+    },
 
     { // # Your Username
         type: 'input',

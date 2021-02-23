@@ -22,6 +22,9 @@ function generateMarkdown(data) {
   ## License 
   ${data.license} ${header}
 
+  ## Features 
+  ${data.features} ${header}
+
   ## Made with Love by
   ${data.user} ${header}
 
