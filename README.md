@@ -1,5 +1,7 @@
 
-  # README.md Generator 
-  # This is an amazing project 
-  ## Johnsonr84 
+  # Readme Generator 
+  # Description 
+  It's awesome 
+  ## Made with Love by
+  Johnsonr84 
   

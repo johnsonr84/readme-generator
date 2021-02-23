@@ -3,8 +3,28 @@ function generateMarkdown(data) {
   const header = "";
   return `
   # ${data.title} ${header}
-  # ${data.description} ${header}
-  ## ${data.user} ${header}
+
+  ## Description 
+  ${data.description} ${header}
+
+  ## Table of Contents 
+  * [ Installation ] (#installation)
+  * [ Usage ] (#usage)
+  * [ Credits ] (#credits)
+  * [ License ] (#license)
+
+  ## Installation 
+  ${data.installation} ${header}
+  ## Usage 
+  ${data.usage} ${header}
+  ## Credits 
+  ${data.credits} ${header}
+  ## License 
+  ${data.license} ${header}
+
+  ## Made with Love by
+  ${data.user} ${header}
+
   `;
   }
   

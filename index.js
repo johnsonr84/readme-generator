@@ -6,13 +6,32 @@ const generateMarkdown = require('./generateMarkdown');
 inquirer.prompt([
     { // # Project Title
         type: 'input',
-        message: "What is your project's name?",
+        message: "Title - What is your project's name?",
         name: 'title',
     },
     { // ## Project Description
         type: 'input',
-        message: "Describe your project?",
+        message: "Description - Please describe your project.",
         name: 'description',
+    },
+    { // ## Table of Contents
+        type: 'input',
+        message: "Installation - What are the steps required to install your project?",
+        name: 'installation',
+    },
+    { 
+        type: 'input',
+        message: "Usage - Provide instructions and examples for use. Include screenshots as needed.",
+        name: 'usage',
+    },{
+        type: 'input',
+        message: "Credits - List your collaborators, if any, with links to their GitHub profiles.",
+        name: 'credits',
+    },
+    {
+        type: 'input',
+        message: "License - Let other developers know what they can and cannot do with your project.",
+        name: 'license',
     },
 
     { // # Your Username
