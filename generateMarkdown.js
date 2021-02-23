@@ -20,7 +20,7 @@ function generateMarkdown(data) {
   ## Credits 
   ${data.credits} ${header}
   ## License 
-  ${data.license} ${header}
+  This project is [${data.license}](https://choosealicense.com/licenses/${data.license}/) licensed.
 
   ## Features 
   ${data.features} ${header}

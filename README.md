@@ -2,7 +2,7 @@
   # Professional README Generator 
 
   ## Description 
-  Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file. 
+  This is a short description 
 
   ## Table of Contents 
   * [ Installation ] (#installation)
@@ -11,16 +11,16 @@
   * [ License ] (#license)
 
   ## Installation 
-  no installation requirements 
+  No installations required 
   ## Usage 
   No usage instructions required 
   ## Credits 
-  Me, myself and Irene 
+  No relevant collaborators 
   ## License 
-  Use how you see fit 
+  This project is licensed by [mit](https://choosealicense.com/licenses/mit/).
 
   ## Features 
-  Too many features to list  
+  The features are too many to list ATM 
 
   ## Made with Love by
   Johnsonr84 

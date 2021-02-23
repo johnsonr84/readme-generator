@@ -28,12 +28,22 @@ inquirer.prompt([
         message: "Credits - List your collaborators, if any, with links to their GitHub profiles.",
         name: 'credits',
     },
-    {
-        type: 'input',
-        message: "License - Let other developers know what they can and cannot do with your project.",
+    { // ## License
+        type: 'list',
+        message: "License - Let other developers know what they can and cannot do with your project. Select a License",
         name: 'license',
+        choices: [
+            {name: 'MIT License', value: 'mit'}, 
+            {name: 'Apache 2.0', value: 'apache-2.0'},
+            {name: 'Mozilla 2.0', value: 'mpl-2.0'},
+            {name: 'Boost 1.0', value: 'bsl-1.0'},
+            {name: 'The Unlicense', value: 'unlicense'},
+            {name: 'GNU AGPLv3', value: 'agpl-3.0'},
+            {name: 'GNU GPLv3', value: 'gpl-3.0'},
+            {name: 'GNU LGPLv3', value: 'lgpl-3.0'},
+        ]
     },
-    {
+    { // Features
         type: 'input',
         message: "Features - If your project has a lot of features, consider listing them here.",
         name: 'features',
