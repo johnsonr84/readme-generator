@@ -10,6 +10,9 @@ inquirer.prompt([
         name: 'title',
     },
 
+    // function to write README file
 ]).then((data) => {
-console.log(data);
+    console.log(data);
+    const readme = generateMarkdown(data);
+    fs.writeFileSync("README.md", readme);
 });
