@@ -2,11 +2,12 @@
   # readme-generator 
 
   [![github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgrey&style=social)](https://github.com/johnsonr84)
-  [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=important)](https://github.com/johnsonr84/readme-generator)
+  [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=orange)](https://github.com/johnsonr84/readme-generator)
+  [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-generator?color=yellow)](https://github.com/johnsonr84/readme-generator)
 
   ## Table of Contents 
   * [Description](#Description)
-  * [Project Deployment Link](#Project-Deployment-Link)
+  * [Project URL](#Project-URL)
   * [Mock-up](#Mock-up)
   * [Usage](#Usage)
   * [Credits](#Credits)
@@ -25,16 +26,16 @@
   https://github.com/johnsonr84/readme-generator/ 
 
   ## Mock-Up
-  Comin soon! 
+  Coming soon! 
 
   ## Installation 
-  None required 
+  No install required 
 
   ## Usage 
   Coming soon! 
 
   ## Credits 
-  Only me! 
+  Yours truly 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
@@ -43,7 +44,7 @@
   Coming soon! 
 
   ## Tests
-  No tests required 
+  No test required! 
 
   ## Resources
   Coming soon! 
