@@ -1,8 +1,15 @@
 
-  # Professional README Generator 
+
+  # https://github.com/johnsonr84/readme-generator 
 
   ## Description 
-  This is a short description 
+  It's a professional readme generator  
+
+  ## Deployment: Live URL
+  https://github.com/johnsonr84/{data.title}/ 
+
+  ## Mock-Up
+  coming soon! 
 
   ## Table of Contents 
   * [ Installation ] (#installation)
@@ -11,18 +18,28 @@
   * [ License ] (#license)
 
   ## Installation 
-  No installations required 
+  coming soon 
   ## Usage 
-  No usage instructions required 
+  coming soon 
   ## Credits 
-  No relevant collaborators 
+  none 
   ## License 
-  This project is licensed by [mit](https://choosealicense.com/licenses/mit/).
+  This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
-  ## Features 
-  The features are too many to list ATM 
+  ## Features
+  none yet 
 
-  ## Made with Love by
-  Johnsonr84 
+  ## Tests
+  no tests yet 
+
+  ## Resources
+  coming soon 
+
+  ## Contact
+  devdork@gmail.com 
+
+  ## Designed and built by yours truly
+  Robert Johnson 
+  https://github.com/ johnsonr84/ 
 
   
