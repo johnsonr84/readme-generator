@@ -31,7 +31,7 @@ function generateMarkdown(data) {
   https://github.com/${data.user}/${data.title}/ ${header}
 
   ## Mock-Up
-  ${/images/screen-shot_1.png} ${header}
+  ${data.mockup}) ${header}
 
   ## Installation 
   ${data.installation} ${header}

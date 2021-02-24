@@ -36,7 +36,7 @@ inquirer.prompt([
     },
     { // ## Mock-Up 
         type: 'input',
-        message: "Mock-Up - Insert image, screenshot or video demonstrating functionality or appearance. Hint: use image file endpoint or url",
+        message: "Mock-Up - Insert image, screenshot or video demonstrating functionality or appearance. Hint: use image file path or url",
         name: 'mockup',
     },
     { // ## Table of Contents

@@ -27,28 +27,28 @@
   https://github.com/johnsonr84/readme-generator/ 
 
   ## Mock-Up
-  ![readme-generator demo](./images/screen-shot_1.png)
+  ![readme-generator demo png](./images/screen-shot_1.png)) 
 
   ## Installation 
-  None Required 
+  None Required! 
 
   ## Usage 
-  Coming 
+  Coming soon! 
 
   ## Credits 
-  Did it Hans Solo 
+  Created by Me, Myself and Ireene! 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
   ## Features
-  Coming 
+  Coming soon! 
 
   ## Tests
-  None Required 
+  No Testing Required 
 
   ## Resources
-  Coming 
+  ![inquirer](https://www.npmjs.com/package/inquirer) 
 
   ## Contact
   Email: devdork@gmail.com 
