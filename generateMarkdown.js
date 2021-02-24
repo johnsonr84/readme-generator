@@ -5,12 +5,12 @@ function generateMarkdown(data) {
   return `
   # ${data.title} ${header}
 
-  [!github-follow](https://img.shields.io/github/followers/${data.user}?label=Follow&logoColor=lightgreye&style=social)]
-  (https://github.com/${data.user})
+  
+  [![github-follow](https://img.shields.io/github/followers/${data.user}?label=Follow&logoColor=lightgrey&style=social)](https://github.com/${data.user})
 
   ## Table of Contents 
   * [Description](#Description)
-  * [Deployment: Live URL](#Deployment: Live URL)
+  * [Deployment: Live URL](#Deployment:LiveURL)
   * [Mock-up](#Mock-up)
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -27,7 +27,7 @@ function generateMarkdown(data) {
   ${data.description} ${header}
 
   ## Deployment: Live URL
-  https://github.com/${data.user}/{data.title}/ ${header}
+  https://github.com/${data.user}/${data.title}/ ${header}
 
   ## Mock-Up
   ${data.mockup} ${header}
@@ -57,7 +57,7 @@ function generateMarkdown(data) {
   Email: ${data.email} ${header}
 
   ## Designed and built by yours truly
-  ${data.name} ${header}
+  ${data.name} ${header} \n
   GitHub: https://github.com/${data.user}/ ${header}
 
   `;

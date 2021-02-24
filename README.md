@@ -1,12 +1,12 @@
 
   # readme-generator 
 
-  [!github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgreye&style=social)]
-  (https://github.com/johnsonr84)
+  
+  [![github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgrey&style=social)](https://github.com/johnsonr84)
 
   ## Table of Contents 
   * [Description](#Description)
-  * [Deployment: Live URL](#Deployment: Live URL)
+  * [Deployment: Live URL](#Deployment:LiveURL)
   * [Mock-up](#Mock-up)
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -23,37 +23,38 @@
   Command-line application that dynamically generates a README.md file from user's input  
 
   ## Deployment: Live URL
-  https://github.com/johnsonr84/{data.title}/ 
+  https://github.com/johnsonr84/readme-generator/ 
 
   ## Mock-Up
   Coming soon! 
 
   ## Installation 
-  None at this time! 
+  None required 
 
   ## Usage 
-  none at this time 
+  Coming soon! 
 
   ## Credits 
-  Did this solo! 
+  Built by me 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
   ## Features
-  no features at this time 
+  Coming soon! 
 
   ## Tests
-  no test required 
+  No tests required 
 
   ## Resources
-  several 
+  Coming soon! 
 
   ## Contact
   Email: devdork@gmail.com 
 
   ## Designed and built by yours truly
-  Robert Johnson 
+  Robert Johnson  
+
   GitHub: https://github.com/johnsonr84/ 
 
   
