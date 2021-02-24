@@ -6,9 +6,8 @@
 
   ## Table of Contents 
   * [Description](#Description)
-  * [Deployment: Live URL](#Deployment:LiveURL)
+  * [Deployment: Live URL](#Deployment:-Live-URL)
   * [Mock-up](#Mock-up)
-  * [Installation](#Installation)
   * [Usage](#Usage)
   * [Credits](#Credits)
   * [License](#License)
@@ -16,11 +15,11 @@
   * [Tests](#Tests)
   * [Resources](#Resources)
   * [Contact](#Contact)
-  * [Designed by](#Designed-and-built-by-yours-truly)
+  * [Designed and built by yours truly](#Designed-and-built-by-yours-truly)
   #
   
   ## Description 
-  Command-line application that dynamically generates a README.md file from user's input  
+  Command-line application that dynamically generates a README.md file from user's input 
 
   ## Deployment: Live URL
   https://github.com/johnsonr84/readme-generator/ 
@@ -35,7 +34,7 @@
   Coming soon! 
 
   ## Credits 
-  Built by me 
+  Yours truly 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
@@ -44,7 +43,7 @@
   Coming soon! 
 
   ## Tests
-  No tests required 
+  No tests required  
 
   ## Resources
   Coming soon! 
@@ -53,7 +52,7 @@
   Email: devdork@gmail.com 
 
   ## Designed and built by yours truly
-  Robert Johnson  
+  Rob Johnson  
 
   GitHub: https://github.com/johnsonr84/ 
 

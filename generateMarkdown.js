@@ -10,9 +10,8 @@ function generateMarkdown(data) {
 
   ## Table of Contents 
   * [Description](#Description)
-  * [Deployment: Live URL](#Deployment:LiveURL)
+  * [Deployment: Live URL](#Deployment:-Live-URL)
   * [Mock-up](#Mock-up)
-  * [Installation](#Installation)
   * [Usage](#Usage)
   * [Credits](#Credits)
   * [License](#License)
@@ -20,7 +19,7 @@ function generateMarkdown(data) {
   * [Tests](#Tests)
   * [Resources](#Resources)
   * [Contact](#Contact)
-  * [Designed by](#Designed-and-built-by-yours-truly)
+  * [Designed and built by yours truly](#Designed-and-built-by-yours-truly)
   #
   
   ## Description 
