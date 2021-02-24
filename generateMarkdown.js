@@ -6,6 +6,21 @@ function generateMarkdown(data) {
 
   # ${data.title} ${header}
 
+  ## Table of Contents 
+  * [Description](#description)
+  * [Deplyment: Live URL](#deployment)
+  * [Mock-up](#mockup)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Features](#features)
+  * [Tests](#tests)
+  * [Resources](#resources)
+  * [Contact](#email)
+  * [Designed by](#name)
+  #
+  
   ## Description 
   ${data.description} ${header}
 
@@ -15,18 +30,15 @@ function generateMarkdown(data) {
   ## Mock-Up
   ${data.mockup} ${header}
 
-  ## Table of Contents 
-  * [ Installation ] (#installation)
-  * [ Usage ] (#usage)
-  * [ Credits ] (#credits)
-  * [ License ] (#license)
-
   ## Installation 
   ${data.installation} ${header}
+
   ## Usage 
   ${data.usage} ${header}
+
   ## Credits 
   ${data.credits} ${header}
+
   ## License 
   This project is [${data.license}](https://choosealicense.com/licenses/${data.license}/) licensed.
 
