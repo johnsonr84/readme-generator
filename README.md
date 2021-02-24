@@ -27,7 +27,7 @@
   https://github.com/johnsonr84/readme-generator/ 
 
   ## Mock-Up
-  Coming  
+  ![readme-generator demo](./images/screen-shot_1.png)
 
   ## Installation 
   None Required 
