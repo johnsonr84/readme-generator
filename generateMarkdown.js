@@ -8,6 +8,7 @@ function generateMarkdown(data) {
   [![github-follow](https://img.shields.io/github/followers/${data.user}?label=Follow&logoColor=lightgrey&style=social)](https://github.com/${data.user})
   [![project-languages-used](https://img.shields.io/github/languages/count/${data.user}/${data.title}?color=orange)](https://github.com/${data.user}/${data.title})
   [![project-top-language](https://img.shields.io/github/languages/top/${data.user}/${data.title}?color=yellow)](https://github.com/${data.user}/${data.title})
+  [![license](https://img.shields.io/badge/License-${data.license}?color=brightgreen)](https://choosealicense.com/licenses/${data.license}/)
 
   ## Table of Contents 
   * [Description](#Description)
@@ -26,7 +27,7 @@ function generateMarkdown(data) {
   ## Description 
   ${data.description} ${header}
 
-  ## Deployment: Live URL
+  ## Project URL
   https://github.com/${data.user}/${data.title}/ ${header}
 
   ## Mock-Up
