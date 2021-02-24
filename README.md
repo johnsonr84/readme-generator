@@ -4,7 +4,7 @@
   [![github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgrey&style=social)](https://github.com/johnsonr84)
   [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=orange)](https://github.com/johnsonr84/readme-generator)
   [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-generator?color=yellow)](https://github.com/johnsonr84/readme-generator)
-  [![license](https://img.shields.io/badge/license-mit?-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
+  [![license](https://img.shields.io/github/license/mit?-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents 
   * [Description](#Description)
@@ -27,28 +27,28 @@
   https://github.com/johnsonr84/readme-generator/ 
 
   ## Mock-Up
-  Coming Soon! 
+  Coming 
 
   ## Installation 
-  None Required! 
+  None 
 
   ## Usage 
-  Coming Soon! 
+  Coming 
 
   ## Credits 
-  Built Hans Solo! 
+  Hans Solo 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
   ## Features
-  Coming Soon! 
+  Coming 
 
   ## Tests
-  None Required! 
+  No Tests  
 
   ## Resources
-  Coming Soon! 
+  Coming 
 
   ## Contact
   Email: devdork@gmail.com 
