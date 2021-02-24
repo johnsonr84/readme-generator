@@ -1,7 +1,7 @@
 
-  # tes 
-  [!github-follower](https://img.shields.io/github/followers/test?label=Follow&logoColor=lightgreye&style=social)]
-  (https://github.com/test)
+  # Professional README Generator 
+  [!github-follower](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgreye&style=social)]
+  (https://github.com/johnsonr84)
 
   ## Table of Contents 
   * [Description](#Description)
@@ -19,40 +19,40 @@
   #
   
   ## Description 
-  tesafd 
+  creates a readme.md from the command line 
 
   ## Deployment: Live URL
-  https://github.com/test/{data.title}/ 
+  https://github.com/johnsonr84/{data.title}/ 
 
   ## Mock-Up
-  adfdfa 
+  coming soon 
 
   ## Installation 
-  afdadf 
+  None at this time 
 
   ## Usage 
-  fdfd 
+  coming soon! 
 
   ## Credits 
-  sads 
+  Built solo 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
   ## Features
-  fadffd 
+  Some cool features coming soon 
 
   ## Tests
-  fdfe 
+  no tests 
 
   ## Resources
-  dfadsf 
+  no resources atm 
 
   ## Contact
-  Email: test 
+  Email: devdork@gmail.com 
 
   ## Designed and built by yours truly
-  test 
-  GitHub: https://github.com/test/ 
+  Robert johnson 
+  GitHub: https://github.com/johnsonr84/ 
 
   
