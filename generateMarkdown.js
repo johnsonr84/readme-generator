@@ -7,18 +7,18 @@ function generateMarkdown(data) {
   # ${data.title} ${header}
 
   ## Table of Contents 
-  * [Description](#description)
-  * [Deplyment: Live URL](#deployment)
-  * [Mock-up](#mockup)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
-  * [Features](#features)
-  * [Tests](#tests)
-  * [Resources](#resources)
-  * [Contact](#email)
-  * [Designed by](#name)
+  * [Description](#Description)
+  * [Deployment: Live URL](#Deployment:-Live-URL)
+  * [Mock-up](#Mock-up)
+  * [Installation](#Installation)
+  * [Usage](#Usage)
+  * [Credits](#Credits)
+  * [License](#License)
+  * [Features](#Features)
+  * [Tests](#Tests)
+  * [Resources](#Resources)
+  * [Contact](#Contact)
+  * [Designed by](#Designed-and-built-by-yours-truly)
   #
   
   ## Description 
