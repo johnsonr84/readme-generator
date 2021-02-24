@@ -5,7 +5,7 @@
 
   ## Table of Contents 
   * [Description](#Description)
-  * [Deployment: Live URL](#Deployment:-Live-URL)
+  * [Deployment: Live URL](#Deployment)
   * [Mock-up](#Mock-up)
   * [Installation](#Installation)
   * [Usage](#Usage)
@@ -21,7 +21,7 @@
   ## Description 
   creates a readme.md from the command line 
 
-  ## Deployment: Live URL
+  ## Deployment
   https://github.com/johnsonr84/{data.title}/ 
 
   ## Mock-Up

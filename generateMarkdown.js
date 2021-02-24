@@ -4,12 +4,13 @@ function generateMarkdown(data) {
 
   return `
   # ${data.title} ${header}
-  [!github-follower](https://img.shields.io/github/followers/${data.user}?label=Follow&logoColor=lightgreye&style=social)]
+
+  [!github-follow](https://img.shields.io/github/followers/${data.user}?label=Follow&logoColor=lightgreye&style=social)]
   (https://github.com/${data.user})
 
   ## Table of Contents 
   * [Description](#Description)
-  * [Deployment: Live URL](#Deployment:-Live-URL)
+  * [Deployment: Live URL](#Deployment: Live URL)
   * [Mock-up](#Mock-up)
   * [Installation](#Installation)
   * [Usage](#Usage)
