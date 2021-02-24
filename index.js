@@ -4,15 +4,40 @@ const generateMarkdown = require('./generateMarkdown');
 
 // array of questions for user
 inquirer.prompt([
-    { // # Project Title
+    { // # Enter Your Full Name
         type: 'input',
-        message: "Title - What is your project's name?",
+        message: "Name - Enter your full name?",
+        name: 'name',
+    },
+    { // # Enter Your Email
+        type: 'input',
+        message: "Email - Enter your email address?",
+        name: 'email',
+    },
+    { // # Your GitHub Username
+        type: 'input',
+        message: "What is your GitHub Username?",
+        name: 'user',
+    },
+    { // # Github Repo Name
+        type: 'input',
+        message: "Title - What is your project/ repo name?",
         name: 'title',
     },
     { // ## Project Description
         type: 'input',
         message: "Description - Please describe your project.",
         name: 'description',
+    },
+    { // ## Deployment: Live OR Repo URL 
+        type: 'input',
+        message: "Deployment - Insert Live or Repo URL.",
+        name: 'deployment',
+    },
+    { // ## Mock-Up 
+        type: 'input',
+        message: "Mock-Up - Insert image, screenshot or video demonstrating functionality or appearance. Hint: use image file endpoint or url",
+        name: 'mockup',
     },
     { // ## Table of Contents
         type: 'input',
@@ -30,7 +55,7 @@ inquirer.prompt([
     },
     { // ## License
         type: 'list',
-        message: "License - Let other developers know what they can and cannot do with your project. Select a License",
+        message: "License - Let other developers know what they can and cannot do with your project. Select a License.",
         name: 'license',
         choices: [
             {name: 'MIT License', value: 'mit'}, 
@@ -43,17 +68,22 @@ inquirer.prompt([
             {name: 'GNU LGPLv3', value: 'lgpl-3.0'},
         ]
     },
-    { // Features
+    { // ## Features
         type: 'input',
         message: "Features - If your project has a lot of features, consider listing them here.",
         name: 'features',
     },
-
-    { // # Your Username
+    { // ## Tests
         type: 'input',
-        message: "What is your GitHub Username?",
-        name: 'user',
+        message: "Test - If your project has tests, provide examples on how to run them.",
+        name: 'tests',
     },
+    { // ## Resources
+        type: 'input',
+        message: "Resources - Please list any resource(s) and their links.",
+        name: 'resources',
+    },
+  
 
     // function to write README file
 ]).then((data) => {
