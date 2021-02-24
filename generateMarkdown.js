@@ -3,8 +3,9 @@ function generateMarkdown(data) {
   const header = "";
 
   return `
-
   # ${data.title} ${header}
+  [!github-follower](https://img.shields.io/github/followers/${data.user}?label=Follow&logoColor=lightgreye&style=social)]
+  (https://github.com/${data.user})
 
   ## Table of Contents 
   * [Description](#Description)
