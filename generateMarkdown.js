@@ -32,7 +32,7 @@ function generateMarkdown(data) {
 
   ## Mock-Up
   ${data.mockup}) ${header}
-  https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view
+  [![readme-demo.mp4](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)
   ![readme-generator demo png](./images/screen-shot_1.png)
 
   ## Installation 
