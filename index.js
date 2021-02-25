@@ -36,7 +36,7 @@ inquirer.prompt([
     },
     { // ## Mock-Up 
         type: 'input',
-        message: "Mock-Up - Insert image, screenshot or video demonstrating functionality or appearance. Hint: use image file path or url",
+        message: "Mock-Up - Insert image, screenshot or video demonstrating functionality or appearance. Hint: use image file path or url.",
         name: 'mockup',
     },
     { // ## Table of Contents
@@ -44,11 +44,12 @@ inquirer.prompt([
         message: "Installation - What are the steps required to install your project?",
         name: 'installation',
     },
-    { 
+    {  // ## Usage
         type: 'input',
         message: "Usage - Provide instructions and examples for use. Include screenshots as needed.",
         name: 'usage',
-    },{
+    },
+    { // ## Credits
         type: 'input',
         message: "Credits - List your collaborators, if any, with links to their GitHub profiles.",
         name: 'credits',
