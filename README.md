@@ -17,7 +17,7 @@
   * [Tests](#Tests)
   * [Resources](#Resources)
   * [Contact](#Contact)
-  * [Designed and built by yours truly](#Designed-and-built-by-yours-truly)
+  * [Designed and built by](#Designed-and-built-by)
   #
   
   ## Description 
@@ -37,19 +37,19 @@
   Coming soon maybe 
 
   ## Credits 
-  Me, myself and Irene 
+  Me. myself and Irene 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
   ## Features
-  Coming soon maybe 
+  Coming soon possibly 
 
   ## Tests
-  No tests required  
+  No tests required at this time 
 
   ## Resources
-    
+  Already listed  
 
   * [Inquirer](https://www.npmjs.com/package/inquirer) 
   * [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -63,7 +63,7 @@
   ## Contact
   Email: robertcjohnson1984@gmail.com 
 
-  ## Designed and built by yours truly
+  ## Designed and built by
   Author(s): Rob Johnson  
 
   GitHub: https://github.com/johnsonr84/ 

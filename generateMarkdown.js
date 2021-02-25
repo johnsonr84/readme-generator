@@ -21,7 +21,7 @@ function generateMarkdown(data) {
   * [Tests](#Tests)
   * [Resources](#Resources)
   * [Contact](#Contact)
-  * [Designed and built by yours truly](#Designed-and-built-by-yours-truly)
+  * [Designed and built by](#Designed-and-built-by)
   #
   
   ## Description 
@@ -32,6 +32,7 @@ function generateMarkdown(data) {
 
   ## Mock-Up
   ${data.mockup}) ${header}
+  https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view
   ![readme-generator demo png](./images/screen-shot_1.png)
 
   ## Installation 
@@ -66,7 +67,7 @@ function generateMarkdown(data) {
   ## Contact
   Email: ${data.email} ${header}
 
-  ## Designed and built by yours truly
+  ## Designed and built by
   Author(s): ${data.name} ${header} \n
   GitHub: https://github.com/${data.user}/ ${header}
 
