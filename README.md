@@ -27,34 +27,43 @@
   https://github.com/johnsonr84/readme-generator/ 
 
   ## Mock-Up
-  ![readme-generator demo png](./images/screen-shot_1.png)) 
+  )  
+
+  ![readme-generator demo png](./images/screen-shot_1.png)
 
   ## Installation 
-  None Required! 
+  No installs required at this time 
 
   ## Usage 
-  Coming soon! 
+  No usage instructions required 
 
   ## Credits 
-  Created by Me, Myself and Ireene! 
+  Me, myself and Ireene 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
   ## Features
-  Coming soon! 
+  Coming soon 
 
   ## Tests
-  No Testing Required 
+  No tests required 
 
   ## Resources
-  ![inquirer](https://www.npmjs.com/package/inquirer) 
+    
+
+  * ![Inquirer](https://www.npmjs.com/package/inquirer) 
+  * ![GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * ![Choose a License](https://choosealicense.com/)
+  * ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+  * [shields.io](https://shields.io/)
+  * ![01-HTML-Git-CSS/04-Important/Good-README-Guide/README.md]
 
   ## Contact
-  Email: devdork@gmail.com 
+  Email: robertcjohnson1984@gmail.com 
 
   ## Designed and built by yours truly
-  Rob Johnson  
+  Author(s): Rob Johnson  
 
   GitHub: https://github.com/johnsonr84/ 
 
