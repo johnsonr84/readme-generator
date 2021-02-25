@@ -27,29 +27,30 @@
   https://github.com/johnsonr84/readme-generator/ 
 
   ## Mock-Up
-  ) 
+  ![readme-video](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)) 
+  https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view
   ![readme-generator demo png](./images/screen-shot_1.png)
 
   ## Installation 
-  No installation required 
+  No installations required at this time. 
 
   ## Usage 
-  Coming soon maybe 
+  Coming soon possibly. 
 
   ## Credits 
-  Me. myself and Irene 
+  Me, myself and Irene 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
   ## Features
-  Coming soon possibly 
+  Coming soon maybe. 
 
   ## Tests
-  No tests required at this time 
+  No tests required at this time. 
 
   ## Resources
-  Already listed  
+    
 
   * [Inquirer](https://www.npmjs.com/package/inquirer) 
   * [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
