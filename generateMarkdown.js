@@ -31,7 +31,8 @@ function generateMarkdown(data) {
   https://github.com/${data.user}/${data.title}/ ${header}
 
   ## Mock-Up
-  ${data.mockup}) ${header}
+  ${data.mockup}) ${header} \n
+  ![readme-generator demo png](./images/screen-shot_1.png)
 
   ## Installation 
   ${data.installation} ${header}
@@ -52,13 +53,19 @@ function generateMarkdown(data) {
   ${data.tests} ${header}
 
   ## Resources
-  ${data.resources} ${header}
+  ${data.resources} ${header} \n
+  * ![Inquirer](https://www.npmjs.com/package/inquirer) 
+  * ![GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  * ![Choose a License](https://choosealicense.com/)
+  * ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+  * [shields.io](https://shields.io/)
+  * ![01-HTML-Git-CSS/04-Important/Good-README-Guide/README.md]
 
   ## Contact
   Email: ${data.email} ${header}
 
   ## Designed and built by yours truly
-  ${data.name} ${header} \n
+  Author(s): ${data.name} ${header} \n
   GitHub: https://github.com/${data.user}/ ${header}
 
   `;
