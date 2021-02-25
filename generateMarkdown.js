@@ -32,7 +32,8 @@ function generateMarkdown(data) {
 
   ## Mock-Up
   ${data.mockup}) ${header}
-  [![readme-demo.mp4](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)
+  [<iframe src="https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/preview" width="640" height="480"></iframe>] 
+  
   ![readme-generator demo png](./images/screen-shot_1.png)
 
   ## Installation 

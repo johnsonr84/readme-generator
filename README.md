@@ -1,9 +1,9 @@
 
-  # readme-md 
+  # readme-generator 
 
   [![github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgrey&style=social)](https://github.com/johnsonr84)
-  [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-md?color=orange)](https://github.com/johnsonr84/readme-md)
-  [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-md?color=yellow)](https://github.com/johnsonr84/readme-md)
+  [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=orange)](https://github.com/johnsonr84/readme-generator)
+  [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-generator?color=yellow)](https://github.com/johnsonr84/readme-generator)
   [![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
   ## Table of Contents 
@@ -24,30 +24,30 @@
   Command-line application that dynamically generates a README.md file from user's input 
 
   ## Project URL
-  https://github.com/johnsonr84/readme-md/ 
+  https://github.com/johnsonr84/readme-generator/ 
 
   ## Mock-Up
-   [![readme-demo.mp4](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)) 
-  [![readme-demo.mp4](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)
+  [<iframe src="https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/preview" width="640" height="480"></iframe>] 
+  
   ![readme-generator demo png](./images/screen-shot_1.png)
 
   ## Installation 
-  No installations required at this time. 
+  No installations required at this time 
 
   ## Usage 
-  Coming soon maybe. 
+   
 
   ## Credits 
-  Me, myself and Irene! 
+  Me, myself and Irene 
 
   ## License 
   This project is [mit](https://choosealicense.com/licenses/mit/) licensed.
 
   ## Features
-  Coming soon possibly. 
+  Coming soon maybe 
 
   ## Tests
-  No tests required at this time. 
+  No tests required at this time 
 
   ## Resources
     
