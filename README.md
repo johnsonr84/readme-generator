@@ -27,7 +27,7 @@
   https://github.com/johnsonr84/readme-generator/ 
 
   ## Mock-Up
-  [<iframe src="https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/preview" width="640" height="480"></iframe>](https://drive.google.com/file/d/1pck591s61CiY5xHugS4O-X-CgG4XLF1x/view)
+  ![readme-generator demo png](./images/readme-demo.gif)
 
   ![readme-generator demo png](./images/screen-shot_1.png)
 
