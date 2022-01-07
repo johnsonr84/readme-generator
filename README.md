@@ -34,7 +34,7 @@ Command-line application that dynamically generates a README.md file from user's
     <td>README.md GIF</td>
   </tr>
   <tr>
-    <td><img src="./images/readme-demo.gif" width=500 alt="gif of readme.md generator"></td>
+    <td><img src="./images/readme-demo.gif" width=auto alt="gif of readme.md generator"></td>
   </tr>
   </table>
 
