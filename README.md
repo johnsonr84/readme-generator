@@ -1,41 +1,50 @@
+<h1 align="center"><a href="https://github.com/johnsonr84/readme-generator"> README.md Generator 👨‍💻</a></h1>
 
-  # readme-generator 
+## Description 
+Command-line application that dynamically generates a README.md file from user's input 
 
   [![github-follow](https://img.shields.io/github/followers/johnsonr84?label=Follow&logoColor=lightgrey&style=social)](https://github.com/johnsonr84)
   [![project-languages-used](https://img.shields.io/github/languages/count/johnsonr84/readme-generator?color=orange)](https://github.com/johnsonr84/readme-generator)
   [![project-top-language](https://img.shields.io/github/languages/top/johnsonr84/readme-generator?color=yellow)](https://github.com/johnsonr84/readme-generator)
   [![license](https://img.shields.io/badge/license-mit-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
 
-  ## Table of Contents 
+
+## Built With
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+
+## Table of Contents 
   * [Description](#Description)
   * [Project URL](#Project-URL)
-  * [Mock-up](#Mock-up)
-  * [Usage](#Usage)
+  * [Deployment](#Deployment)
+  * [Demo/Screenshots](#Demo/Screenshots)
   * [Credits](#Credits)
   * [License](#License)
-  * [Features](#Features)
-  * [Tests](#Tests)
   * [Resources](#Resources)
   * [Contact](#Contact)
-  * [Designed and built by](#Designed-and-built-by)
+  * [Author](#Author)
   #
-  
-  ## Description 
-  Command-line application that dynamically generates a README.md file from user's input 
-
+ 
   ## Project URL
   https://github.com/johnsonr84/readme-generator/ 
 
-  ## Mock-Up
-  ![readme-generator demo png](./images/readme-demo.gif)
-
-  ![readme-generator demo png](./images/screen-shot_1.png)
-
-  ## Installation 
-  No installations required at this time 
-
-  ## Usage 
-   
+  ## Demo/Screenshots
+  <table>
+  <tr>
+    <td>README.md GIF</td>
+  </tr>
+  <tr>
+    <td><img src="./images/readme-demo.gif" height=300 alt="gif of readme.md generator"></td>
+  </tr>
+  </table>
+    <table>
+  <tr>
+    <td>README.md PNG</td>
+  </tr>
+  <tr>
+    <td><img src="./images/screen-shot_1.png" height=300 alt="png of readme.md generator"></td>
+  </tr>
+  </table>
 
   ## Credits 
   Me, myself and Irene 
@@ -50,8 +59,6 @@
   No tests required at this time 
 
   ## Resources
-    
-
   * [Inquirer](https://www.npmjs.com/package/inquirer) 
   * [GitHub Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   * [Choose a License](https://choosealicense.com/)
@@ -64,7 +71,7 @@
   ## Contact
   Email: robertcjohnson1984@gmail.com 
 
-  ## Designed and built by
+  ## Author
   Author(s): Rob Johnson  
 
   GitHub: https://github.com/johnsonr84/ 
